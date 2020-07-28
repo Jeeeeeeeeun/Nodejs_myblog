@@ -1,0 +1,80 @@
+body{
+    text-align: center;
+    margin:8%;
+    background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+}
+
+#inner{
+    background-color: whitesmoke;
+    padding:5%;
+}
+
+#head_title{
+    text-decoration:none; 
+    color:#93a5cf;
+}
+
+#blog_body{
+    margin-right:5%;
+    margin-left:5%;
+    margin-top: 50px;
+    margin-bottom:50px;
+}
+
+#blog_body textarea{
+    width:90%;
+    height: 300px;
+}
+
+#blog_body #title{
+    width:90%;
+}
+
+#blog_body #sub_button{
+    background-color:#93a5cf;
+    border: none;
+    color: white;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+
+#blog_list{
+    margin-top:100px;
+    margin-left: 3%;
+    text-align: left;
+}
+
+#blog_list a{
+    text-decoration:none;
+    color:black;
+}
+
+#control{
+    text-align: right;
+    margin-top:50px;
+}
+
+#control button{
+    background-color:#93a5cf;
+    border: none;
+    color: white;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+
+#control form #del{
+    background-color:#93a5cf;
+    border: none;
+    color: white;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
